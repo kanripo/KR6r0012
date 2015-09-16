@@ -1,0 +1,7 @@
+018-0238a00	T 018-0238a	buddhist/T-taisho/T49/02/T49-0238.png
+018-0238b00	T 018-0238b	buddhist/T-taisho/T49/02/T49-0238.png
+018-0238c00	T 018-0238c	buddhist/T-taisho/T49/02/T49-0238.png
+018-0239a00	T 018-0239a	buddhist/T-taisho/T49/02/T49-0239.png
+018-0239b00	T 018-0239b	buddhist/T-taisho/T49/02/T49-0239.png
+018-0239c00	T 018-0239c	buddhist/T-taisho/T49/02/T49-0239.png
+018-0240a00	T 018-0240a	buddhist/T-taisho/T49/02/T49-0240.png
