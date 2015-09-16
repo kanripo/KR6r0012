@@ -1,31 +1,27 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.757836
+#+DATE: 2015-08-30 21:55:26.591634
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2035
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6r0012_T_020-0240c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 佛祖統紀卷第二十¶
+佛祖統紀卷第二十¶
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-:PROPERTIES:
-:head: 諸師列傳第六之十
-:END:
-¶
+諸師列傳第六之十¶
 
 嘯巖虎法師法嗣(廣智下第七世)
   
   * 訥堂慧辯法師¶
   * 頑空智覺法師
-  * 松㵎善助法師¶
+  * 松[澗-日+月]善助法師¶
   * 寒谷妙暉法師
   * 東山夔公首座¶
   * 東山皎公法師
