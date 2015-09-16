@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.837490
+#+DATE: 2015-08-30 21:55:24.027951
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2035
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6r0012_T_023-0247a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 23
 ¶
 ¶
-
- 佛祖統紀卷第二十三¶
+佛祖統紀卷第二十三¶
 ¶
 宋景定四明東湖沙門志盤撰¶
 
-9歷代傳教表
-:PROPERTIES:
-:head: 歷代傳教表第九
-:END:
-¶
+歷代傳教表第九¶
 
 北齊悟一心三智之旨。以授南岳。南岳修¶
 之以授智者。智者始以五時八教開張一
@@ -52,11 +47,11 @@
 敬帝(方智元帝第九子)
   
   * 紹泰元年(乙亥)¶
-  * 太平元年(丙子)¶
+  * 太平元年(丙子盡二年)¶
 
 陳¶
 
-武帝(陳霸先受梁禪都建康)
+武帝(陳[襾/(革*月)]先受梁禪都建康)
   
   * 永定元年(丁丑盡三年)¶
 
@@ -423,5 +418,5 @@
   * 
 明道元年(壬申盡二年)
 明道二年七月。奉靈¶骨起塔於南城崇法。¶
-佛祖統紀卷第二十三(終)¶
+佛祖統紀卷第二十四(終)¶
 
