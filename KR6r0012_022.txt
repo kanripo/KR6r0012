@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:24.007473
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -15,7 +15,7 @@
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-未詳承嗣傳第八¶
+* 未詳承嗣傳第八¶
 
   
   * 東陽善慧大士(齋梁之間)

@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:23.985562
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -15,7 +15,7 @@
 ¶
 天宋景定四明東湖沙門志磐撰¶
 
-諸師雜傳第七¶
+* 諸師雜傳第七¶
 
   
   * 淨覺仁岳法師
