@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:19.112698
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -16,7 +16,7 @@
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-14三世出興志
+* 14三世出興志
 :PROPERTIES:
 :head: 三世出興志第十四
 :END:

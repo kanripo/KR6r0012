@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:19.636943
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -21,13 +21,13 @@
 :END:
 ¶
 
-宋
+** 宋
 :PROPERTIES:
 :head: 宋(都汴京)
 :END:
 ¶
 
-太祖
+*** 太祖
 :PROPERTIES:
 :head: 太祖(宣祖第二子。母杜氏。二月十六日為長春節　葬永昌陵)
 :END:
@@ -313,7 +313,7 @@
 士知讀兵書。是又重威保國之仁術也。¶
 智矣哉。¶
 
-太宗
+*** 太宗
 :PROPERTIES:
 :head: 太宗(宣祖第三子。太祖同母弟也。母夢神人捧日寘於懷遂娠。十月十七日為乾明節葬永熙陵)
 :END:

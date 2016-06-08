@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.282671
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -16,7 +16,7 @@
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-2西土二十四祖紀
+* 2西土二十四祖紀
 :PROPERTIES:
 :head: 西土二十四祖紀第二
 :END:

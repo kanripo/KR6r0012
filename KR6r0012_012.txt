@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.529260
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -52,7 +52,7 @@
   * 入室四¶百七十八人(實錄)
   * 升堂一千人(塔銘)¶
 
-法智法師法嗣
+** 法智法師法嗣
 :PROPERTIES:
 :head: 法智法師法嗣
 :END:

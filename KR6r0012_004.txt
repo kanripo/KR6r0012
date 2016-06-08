@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.255755
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -21,7 +21,7 @@
 :END:
 ¶
 
-入涅槃
+** 入涅槃
 :PROPERTIES:
 :head: 入涅槃
 :END:
@@ -376,7 +376,7 @@
 令詣十方世界盡集六通阿羅漢。得八億¶
 八千眾。於雙樹間聽受法言(處胎經)。¶
 
-分舍利
+** 分舍利
 :PROPERTIES:
 :head: 分舍利
 :END:
@@ -427,7 +427,7 @@
 得炭。還國起塔。是時閻浮提始有十塔¶
 (十誦律)。¶
 
-集三藏
+** 集三藏
 :PROPERTIES:
 :head: 集三藏
 :END:

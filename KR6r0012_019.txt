@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.731915
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -73,8 +73,7 @@
   * 古泉正宗法師(此卷三十¶二人本紀原文遺失)¶
 佛祖統紀卷第十九(終)¶
 
-柏庭月法師法嗣
-柏庭月法師法嗣
+** 柏庭月法師法嗣
 :PROPERTIES:
 :head: 柏庭月法師法嗣
 :END:

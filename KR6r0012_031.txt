@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:19.139130
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
@@ -16,7 +16,7 @@
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-15世界名體志
+* 15世界名體志
 :PROPERTIES:
 :head: 世界名體志第十五之一
 :END:
@@ -337,7 +337,7 @@
 所依止。其地量高六十八千由旬。是地量表。¶
 有一三千大千世界。¶
 
-土水風輪會異
+** 土水風輪會異
 :PROPERTIES:
 :head: 土水風輪會異
 :END:
