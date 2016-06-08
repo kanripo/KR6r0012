@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.837490
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2035
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0012_T_023-0247a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 23
 ¶
 ¶
-
- 佛祖統紀卷第二十三¶
+佛祖統紀卷第二十三¶
 ¶
 宋景定四明東湖沙門志盤撰¶
 
-9歷代傳教表
-:PROPERTIES:
-:head: 歷代傳教表第九
-:END:
-¶
+* 歷代傳教表第九¶
 
 北齊悟一心三智之旨。以授南岳。南岳修¶
 之以授智者。智者始以五時八教開張一

@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:19.205088
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2035
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0012_T_033-0318a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 33
 ¶
 ¶
-
- 佛祖統紀卷第三十三¶
+佛祖統紀卷第三十三¶
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-16法門光顯志
-:PROPERTIES:
-:head: 法門光顯志第十六
-:END:
-¶
+* 法門光顯志第十六¶
 
 佛法不思議。且將兩冥於真俗不二之際。至¶
 若示之以建化之門。則必憑藉佛事。以助¶
@@ -402,7 +397,7 @@
 六道)供養諸佛及眾賢聖。然後可食。南岳隨自¶
 意三昧云。凡得食應云。此食色香味。上供¶
 十方佛。中奉諸賢聖。下及六道品。等施無¶
-差(楚宜反不齊也)別。天台觀心食法。鳴鐘後斂手供¶
+差(楚宜反不齊也)別。天台觀心食法。鳴鐘後歛手供¶
 養一體三寶。次出生飯稱施六道。此皆等¶
 供十界。即是今人施六道修水陸供之明¶
 證也。¶

@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.911559
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2035
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0012_T_025-0258a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 25
 ¶
 ¶
-
- 佛祖統紀卷第二十五¶
+佛祖統紀卷第二十五¶
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-11山家教典志
-:PROPERTIES:
-:head: 山家教典志第十一
-:END:
-¶
+* 山家教典志第十一¶
 
 智者高座以縱辯。章安直筆以載書。所謂¶
 以文字廣第一義諦。是猶託之空言。不如¶
@@ -93,7 +88,7 @@
 智度論疏(二十卷)　彌勒成佛經疏(五卷)　觀心¶
 釋一切經義(一卷)　彌勒上生經疏(一卷)¶
 
-釋一經玄義(一卷)　坐禪止觀(一卷)　仁王¶
+釋一經玄義一卷(一卷)　坐禪止觀(一卷)　仁王¶
 般若經疏(二卷○天竺別集云元豊初得之海賈)　禪門章　般¶
 舟行法　雜觀行¶
 

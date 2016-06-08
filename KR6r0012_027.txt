@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.989600
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2035
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0012_T_027-0271b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 佛祖統紀卷第二十七¶
+佛祖統紀卷第二十七¶
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-:PROPERTIES:
-:head: 淨土立教志第十二之二
-:END:
-
+* 淨土立教志第十二之二
 <pb:KR6r0012_T_027-0271c>¶
 
 往生高僧傳¶
@@ -168,11 +164,7 @@
 
 隋江都慧海法師¶
 
-往生高僧傳
-:PROPERTIES:
-:head: 往生高僧傳
-:END:
-¶
+** 往生高僧傳¶
 
 慧虔。晉末居廬山。見遠公德業之盛。歎曰。¶
 吾人也彼人也。乃之山陰嘉祥寺。聚徒講¶
@@ -979,7 +971,7 @@
 目長逝。¶
 
 道生。居常熟興福。造丈六彌陀像。得縣令¶
-梅汝能。施財籹采。即集眾諷經念佛。陳白¶
+梅汝能。施財籹釆。即集眾諷經念佛。陳白¶
 慟哭。辭佛歸臥房。書偈坐亡。¶
 
 若觀。居烏鎮嘉會。結十萬人念佛。人各十¶

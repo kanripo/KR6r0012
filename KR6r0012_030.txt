@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:19.112698
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2035
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0012_T_030-0297c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 佛祖統紀卷第三十¶
+佛祖統紀卷第三十¶
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-14三世出興志
-:PROPERTIES:
-:head: 三世出興志第十四
-:END:
-¶
+* 三世出興志第十四¶
 
 久遠劫來諸佛出世。已粗陳於釋迦本紀之¶
 前矣。今約三千如來。用明七佛繼興及今佛¶
@@ -437,7 +432,7 @@
 
 有能一日夜持不殺戒。決定不逢刀兵¶
 災起。能以一訶梨勒果。起殷淨心奉施¶
-僧眾。決定不逢疾疫災起。能以一摶食¶
+僧眾。決定不逢疾疫災起。能以一搏食¶
 施諸有情。決定不逢飢饉災起。東西二¶
 洲無根本三災。而有相似三災。謂嗔增盛¶
 似刀兵。身羸劣似疾疫。數加飢渴似¶

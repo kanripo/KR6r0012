@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:55:18.731915
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:07
 #+TITLE: 佛祖統紀
 #+PROPERTY: CBETA_ID T49n2035
 #+PROPERTY: ID KR6r0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 49, No. 2035
 #+PROPERTY: VOL 49
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0012_T_019-0240a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 佛祖統紀卷第十九¶
+佛祖統紀卷第十九¶
 ¶
 宋景定四明東湖沙門志磐撰¶
 
-:PROPERTIES:
-:head: 諸師列傳第六之九
-:END:
-¶
+* 諸師列傳第六之九¶
 
 豁菴悟法師法嗣
   
@@ -73,12 +69,7 @@
   * 古泉正宗法師(此卷三十¶二人本紀原文遺失)¶
 佛祖統紀卷第十九(終)¶
 
-柏庭月法師法嗣
-柏庭月法師法嗣
-:PROPERTIES:
-:head: 柏庭月法師法嗣
-:END:
-¶
+* 柏庭月法師法嗣¶
 
 法師文節。字通叟。自號操庵。四明慈溪夏¶
 氏子。世為大族百餘家。行路者常聞讀¶
